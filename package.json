@@ -5,11 +5,13 @@
   "dependencies": {
     "bloomer": "^0.6.5",
     "bulma": "^0.7.4",
+    "firebase": "^5.8.4",
     "i": "^0.3.6",
     "node-sass": "^4.11.0",
     "npm": "^6.8.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
+    "react-firebase-hooks": "^1.1.0",
     "react-scripts": "2.1.5"
   },
   "scripts": {
